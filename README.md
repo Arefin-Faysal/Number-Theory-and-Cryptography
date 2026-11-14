@@ -5,14 +5,6 @@
 # Number-Theory-and-Cryptography
 # Number Theory and Cryptography Workshop
 
-## Colab Links
-Use academic mail to access.
-https://colab.research.google.com/drive/1kO8cU20YC-PD_FU1YYOO74Hsu5v0TeoU?usp=sharing
-https://colab.research.google.com/drive/1NOQf6a-xfFjgYLztll6nyf93sGrkwTKZ?usp=sharing
-https://colab.research.google.com/drive/1GJ9Zf0xrLASX9HDcZqIDtjv0v0aaOyJn?usp=sharing
-https://colab.research.google.com/drive/1EC6ZGcck96BhIBXf051pO-46YKi1SKIC?usp=sharing
-https://colab.research.google.com/drive/13uSZEQU-7HeNr9S-UBfnyx1N2j2GfkUc
-
 ##  About the Workshop
 
 This repository contains the learning materials, lecture slides, assignments, practical exercises, and cryptography demonstrations from the **Number Theory and Cryptography Workshop**, organized by the **Maths and Physics Club, IIT Bombay**.
