@@ -344,6 +344,12 @@ I would like to express my gratitude to the **Maths and Physics Club, IIT Bombay
 
 The workshop provided an opportunity to explore the mathematical foundations of cryptography through both theoretical study and hands-on programming exercises.
 
+# Colab Links
+
+Use academic mail to access.
+ https://colab.research.google.com/drive/1kO8cU20YC-PD_FU1YYOO74Hsu5v0TeoU?usp=sharing https://colab.research.google.com/drive/1NOQf6a-xfFjgYLztll6nyf93sGrkwTKZ?usp=sharing https://colab.research.google.com/drive/1GJ9Zf0xrLASX9HDcZqIDtjv0v0aaOyJn?usp=sharing https://colab.research.google.com/drive/1EC6ZGcck96BhIBXf051pO-46YKi1SKIC?usp=sharing https://colab.research.google.com/drive/13uSZEQU-7HeNr9S-UBfnyx1N2j2GfkUc
+
+
 ---
 
 ## 📌 References
@@ -358,5 +364,5 @@ The workshop provided an opportunity to explore the mathematical foundations of 
 **Organized by:** Maths and Physics Club, IIT Bombay  
 **Main Topics:** Number Theory, Modular Arithmetic, and Cryptography  
 **Programming Language:** Python  
-**Platform:** Jupyter Notebook / Google Colab  
+**Platform:** Google Colab  
 **Status:** Completed ✅
