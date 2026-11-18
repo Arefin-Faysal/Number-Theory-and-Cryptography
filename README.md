@@ -347,7 +347,12 @@ The workshop provided an opportunity to explore the mathematical foundations of 
 # Colab Links
 
 Use academic mail to access.
- https://colab.research.google.com/drive/1kO8cU20YC-PD_FU1YYOO74Hsu5v0TeoU?usp=sharing https://colab.research.google.com/drive/1NOQf6a-xfFjgYLztll6nyf93sGrkwTKZ?usp=sharing https://colab.research.google.com/drive/1GJ9Zf0xrLASX9HDcZqIDtjv0v0aaOyJn?usp=sharing https://colab.research.google.com/drive/1EC6ZGcck96BhIBXf051pO-46YKi1SKIC?usp=sharing https://colab.research.google.com/drive/13uSZEQU-7HeNr9S-UBfnyx1N2j2GfkUc
+
+https://colab.research.google.com/drive/1Osr7xjHGGT-BKJIs7RbF6uJHK6ggJB67?usp=sharing
+https://colab.research.google.com/drive/1HFEobN6IYXodOUY7gKZzklgxz_-Wi-pQ?usp=sharing
+https://colab.research.google.com/drive/1lsx6S3sET8OMSiCuOlLyZE3BPaiQf7Vm?usp=sharing
+https://colab.research.google.com/drive/1tssR2zLFCJQ49HkPjRXlXhrPGwmmxTX_?usp=sharing
+https://colab.research.google.com/drive/1ipAB1APH2q27n9uOMralhlHdvOeJnzmC?usp=sharing
 
 
 ---
